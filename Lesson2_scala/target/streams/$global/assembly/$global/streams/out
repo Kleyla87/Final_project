@@ -1,7 +1,0 @@
-[debug] Including from cache: scala-library-2.13.10.jar
-[debug] Calculate mappings...
-[debug] Checking every *.class/*.jar file's SHA-1.
-[debug] Merging files...
-[debug] Merging 'META-INF\MANIFEST.MF' with strategy 'discard'
-[info] Strategy 'discard' was applied to a file (Run the task at debug level to see details)
-[info] Assembly up to date: C:\Users\ACER\IdeaProjects\Lesson2_scala\target\scala-2.13\Lesson2_scala-assembly-0.1.0-SNAPSHOT.jar
